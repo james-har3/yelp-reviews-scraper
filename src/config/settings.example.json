@@ -1,0 +1,17 @@
+{
+  "http": {
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) YelpReviewsScraper/1.0",
+    "timeout": 15
+  },
+  "scraper": {
+    "max_reviews": 200,
+    "min_rating": 1,
+    "max_rating": 5,
+    "from_date": null
+  },
+  "output": {
+    "directory": "data",
+    "file_name": "sample.json",
+    "indent": 2
+  }
+}
