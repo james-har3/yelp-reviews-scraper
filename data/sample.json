@@ -1,0 +1,40 @@
+[
+  {
+    "business_url": "https://www.yelp.com/biz/aces-pizza-brooklyn",
+    "business_name": "Ace's Pizza",
+    "average_rating": "4.7",
+    "total_reviews": "227 reviews",
+    "price_range": "$",
+    "business_address": "637 Driggs Ave Brooklyn, NY 11211",
+    "contact_number": "(347) 725-4366",
+    "review_counts_by_rating": {
+      "1stars": 2,
+      "2stars": 3,
+      "3stars": 13,
+      "4stars": 36,
+      "5stars": 173
+    },
+    "latest_reviewer_name": "Jesse Y.",
+    "review_avatar_url": "https://s3-media0.fl.yelpcdn.com/photo/XQ25RFJh3UV5O0yN21uTUw/60s.jpg",
+    "latest_reviewer_details": {
+      "total_reviews": 445,
+      "total_friends": 26,
+      "business_photos_uploaded": 3413
+    },
+    "latest_reviewer_location": "Queens, NY",
+    "latest_reviewer_rating": 5,
+    "review_date": "2024-09-15T14:24:26-04:00",
+    "review_text": "Sensational Detroit style pizza... each bite is so pillowy soft and absolutely delicious.",
+    "review_media_urls": [
+      "https://s3-media0.fl.yelpcdn.com/bphoto/DMujvpOP2fHe8J7l0Evlmg/348s.jpg",
+      "https://yelp.com/uvp/consumer_video_contribution/6347593104112/progressive_video_high/v1"
+    ],
+    "helpful_count": 0,
+    "thanks_count": 0,
+    "love_this_count": 1,
+    "oh_no_count": 0,
+    "response_author_name": "Jesse Y.",
+    "response_date": "2024-02-24T20:08:26-05:00",
+    "response_content": "Super light and fluffy Detroit style pizzeria with incredible atmosphere and even better staff."
+  }
+]
